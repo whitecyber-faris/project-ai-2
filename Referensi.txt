@@ -1,0 +1,11 @@
+httpstowardsdatascience.comimage-processing-with-python-applying-homography-for-image-warping-84cd87d2108f
+
+Download scikit_image-0.19.3-cp311-cp311-win_amd64.whl
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-image
+buka folder 
+pip install scikit_image-0.19.3-cp311-cp311-win_amd64.whl
+
+pip install matplotlib
+pip install scikit-image
+pip install pyproject-toml
+
